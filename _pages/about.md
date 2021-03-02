@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Physics Ph.D. student at MIT. I am interested in topics related to collider data analysis, fast data processing with FPGAs, and probabilistic modeling/inference. 
+Physics Ph.D. student at MIT. I am interested in topics related to collider data analysis (Boosted Resonances, Higgs, Jets, Heavy Ion Physics), fast data processing with FPGAs, and probabilistic modeling/inference. 
 
 
 
